@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/ercasale97/mongo/issues"
   },
-  "homepage": "https://github.com/ercasale97/mongo#readme"
+  "homepage": "https://github.com/ercasale97/mongo#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.4",
+    "logger": "0.0.1",
+    "mongoose": "^5.4.19",
+    "morgan": "^1.9.1",
+    "path": "^0.12.7"
+  }
 }
